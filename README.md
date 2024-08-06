@@ -93,11 +93,15 @@
 ## 📌팀원역할~~
 <table>
   <tr>
-    <td align="center"><strong>최수빈</strong></td>
-    <td align="center"><strong>김준</strong></td>
+    <td align="center"><strong>김민기</strong></td>
     <td align="center"><strong>모현정</strong></td>
+    <td align="center"><strong>이충열</strong></td>
+    <td align="center"><strong>주영빈</strong></td>
+    <td align="center"><strong>홍우진</strong></td>
   </tr>
  <tr>
+    <td align="center">Main</td>
+    <td align="center">Main</td>
     <td align="center">Main</td>
     <td align="center">Main</td>
     <td align="center">Main</td>
