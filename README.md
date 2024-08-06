@@ -1,7 +1,4 @@
-# Jetson Nano H/W 기반 공장 출입 근로자 안전장비 착용 식별 AI 서비스 장치 개발 (팀명 : 티라미수케익)
- <img width="450" alt="NPSS_logo3" src="https://github.com/2024-SMHRD-IS-IOT-3/NPSS/assets/165890322/6188122c-8cb7-487a-9ac2-05378d0fb306"/>
- 
-#### 💡 IoT는 여기로  👉👉  <a href="https://github.com/2024-SMHRD-IS-IOT-3/NPSS_IoT" target='_blank'> github</a>
+# Jetson Nano H/W 기반 공장 출입 근로자 안전장비 착용 식별 AI 서비스 장치 개발 (팀명 : 티라미수케익)<br/>
 <br/>
 
 ## 📌서비스소개
