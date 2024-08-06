@@ -64,7 +64,7 @@
 <br/>
 
 
-## 📌시스템 아키텍처~~
+## 📌시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/597e841a-8d18-47b9-be00-64d309547d30)
 <br/>
 
