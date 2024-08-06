@@ -15,7 +15,7 @@
 #### · ▪앱을 통한 작업 환경관리 및 인원 관리 시스템<br/>
 <br/>
 
-## 📌기술스택
+## 📌기술스택~~
 <table>
     <tr>
         <th>구분</th>
@@ -65,7 +65,7 @@
 <br/>
 
 
-## 📌시스템 아키텍처
+## 📌시스템 아키텍처~~
 <img width="630" alt="시스템아키텍처2" src="https://github.com/2024-SMHRD-IS-IOT-3/NPSS/assets/165890322/dd1d70bc-20fb-4abb-a4ee-19d3038abfd4">
 <br/>
 
