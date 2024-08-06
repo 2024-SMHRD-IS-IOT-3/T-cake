@@ -74,7 +74,7 @@
 <br/>
 
 ## 📌ER 다이어그램
-![ERD](https://github.com/2024-SMHRD-IS-IOT-3/NPSS/assets/165890322/d05e7f4b-f755-40fe-b82e-bb2467599c7a)
+![image](https://github.com/user-attachments/assets/4c2b5998-3a01-4936-b8a1-93004970042e)
 <br/>
 
 ## 📌화면구성
