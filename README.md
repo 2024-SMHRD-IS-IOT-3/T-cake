@@ -70,7 +70,8 @@
 <br/>
 
 ## 📌유스케이스
-![유스케이스](https://github.com/2024-SMHRD-IS-IOT-3/NPSS/assets/165890322/dc2216fc-bf8d-46c9-b597-b458ceedc4b3)
+![유스케이스](![image](https://github.com/user-attachments/assets/351475e5-79af-4d0c-8bf4-333b9380ea37)
+)
 <br/>
 
 ## 📌ER 다이어그램
