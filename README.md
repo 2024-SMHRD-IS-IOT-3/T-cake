@@ -77,6 +77,10 @@
 ![image](https://github.com/user-attachments/assets/4c2b5998-3a01-4936-b8a1-93004970042e)
 <br/>
 
+## 📌회로구성도
+![image](https://github.com/user-attachments/assets/7e7ba14d-495a-4641-80ed-8933b3b9cf36)
+<br/>
+
 ## 📌화면구성
 ##### 1. 조명 밝기 제어 페이지<br/>
 ![조명페이지](https://github.com/2024-SMHRD-IS-IOT-3/NPSS/assets/165890322/8c5ee8c7-2fbf-4eb6-96e0-8ede15e9655e)
