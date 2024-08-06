@@ -81,7 +81,7 @@
 ![image](https://github.com/user-attachments/assets/7e7ba14d-495a-4641-80ed-8933b3b9cf36)
 <br/>
 
-## 📌화면구성
+## 📌화면구성~~
 ##### 1. 조명 밝기 제어 페이지<br/>
 ![조명페이지](https://github.com/2024-SMHRD-IS-IOT-3/NPSS/assets/165890322/8c5ee8c7-2fbf-4eb6-96e0-8ede15e9655e)
 ##### 2. 태양광 페이지<br/>
@@ -90,7 +90,7 @@
 ![냉난방페이지](https://github.com/2024-SMHRD-IS-IOT-3/NPSS/assets/165890322/b87e962f-d80e-4181-9590-86238e6e2d31)
 <br/>
 
-## 📌팀원역할
+## 📌팀원역할~~
 <table>
   <tr>
     <td align="center"><strong>최수빈</strong></td>
@@ -135,7 +135,7 @@
 </table>
 <br/>
 
-## 📌참고문헌
+## 📌참고문헌~~
 - (기사) 국내 최초 전통조명 대비 스마트조명 정확한 에너지절감률 측정<br/>
 https://www.electimes.com/news/articleView.html?idxno=317527<br/>
 - SK쉴더스 공식 홈페이지<br/>
