@@ -65,7 +65,7 @@
 
 
 ## 📌시스템 아키텍처~~
-<img width="630" alt="시스템아키텍처2" src="https://github.com/2024-SMHRD-IS-IOT-3/NPSS/assets/165890322/dd1d70bc-20fb-4abb-a4ee-19d3038abfd4">
+![image](https://github.com/user-attachments/assets/597e841a-8d18-47b9-be00-64d309547d30)
 <br/>
 
 ## 📌유스케이스
