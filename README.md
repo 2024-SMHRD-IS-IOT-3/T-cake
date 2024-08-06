@@ -72,7 +72,6 @@
 ## 📌유스케이스
 ![유스케이스](![image](https://github.com/user-attachments/assets/07387d0e-fc27-4871-a98e-0870814d7f50)
 )
-)
 <br/>
 
 ## 📌ER 다이어그램
