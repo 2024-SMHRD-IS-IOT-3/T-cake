@@ -70,8 +70,7 @@
 <br/>
 
 ## 📌유스케이스
-![유스케이스](![image](https://github.com/user-attachments/assets/07387d0e-fc27-4871-a98e-0870814d7f50)
-)
+![image](https://github.com/user-attachments/assets/04962989-60d4-42a7-b2a4-61579910e41b)
 <br/>
 
 ## 📌ER 다이어그램
