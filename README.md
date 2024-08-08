@@ -152,19 +152,20 @@
 <br/>
 
 ## 📌참고문헌~~
-- (기사) 국내 최초 전통조명 대비 스마트조명 정확한 에너지절감률 측정<br/>
-https://www.electimes.com/news/articleView.html?idxno=317527<br/>
-- SK쉴더스 공식 홈페이지<br/>
- https://www.skshieldus.com/kor/index.do 
-gcl_keyword=kt%20%ED%85%94%EB%A0%88%EC%BA%85&gcl_network=g&gad_source=1&gclid=Cj0KCQjw0ruyBhDuARIsANSZ3wogZyIgr2LeOAeo34gzFrobsFe8mFpbTMeKw2cDfdrj0NUz2HlaKEoaAhIiEALw_wcB<br/>
-- (기사) 전기료 인상에…24시 무인 점포 패닉 “폐업 해야 되나”<br/>
- https://biz.chosun.com/topics/topics_social/2023/05/18/B3X3I67IWVBYVH5HFGYEKKHOKI/<br/>
-- (기사) [그래픽] 전기요금 인상폭 추이<br/>
- https://www.yna.co.kr/view/GYH20230621000800044<br/>
-- (기사) 최저임금 인상에 편의점 '무인점포' 각광받는데···아직은 시기상조?<br/>
- https://www.sisajournal-e.com/news/articleView.html?idxno=301739<br/>
-- (기사) 서울시, 무인 점포 아이스크림 판매점 쓰레기, 악취 , 위생 불량 심각<br/>
-https://www.journal25.com/news/articleView.html?idxno=291181<br/>
-- (기사) [무인점포 가보니] '쓰레기 폭탄·소비자 불만 폭발' … 왜 증가할까 ?<br/>
-https://www.safetimes.co.kr/news/articleView.html?idxno=111166<br/>
+1)김다인지난해 산업재해 사망 광주 명전남 명광주일보 ," 8 , 33 ", , 
+2024.03.10,http://m.kwangju.co.kr/article.php?aid=1710069600765469006
+ 2)광주 in,2022.07.07,https://www.gwangjuin.com/news/articleView.html?idxno=234344
+ 3)김유리연이은 외국인 근로자 사망사고외국인 고용 사업장집중 점검  ," ,' '
+실시안전보건뉴스", ,2023.08.24,https://www.safety1st.news/news/articleView.html?idxno=4517
+4)산재사망 명 중 명 외국인손짓발짓 교육에 안전지대는 없다한국경제 10 1 ”, , 2024.06.25, …
+ https://news.nate.com/view/20240625n35515?mid=n0100
+ 5)산재로 인한 경제손실국가예산 넘겼다년 동안 배 늘어한국경제 , 5% "5 1.5 ”, , 2023.09.12, …
+ https://www.hankyung.com/article/202309122912i
+ 6)국내 재난안전산업 시장규모 조원전년보다 조원  44 2 …
+증가한국경제, ,2020.02.20,https://www.hankyung.com/article/202002200546Y
+ 7)이제 산업재해 예방도 신기술로 똑똑하게스마트안전장비 도입 비용의  ! 80% 
+지원고용노동부", ,2023.04.03,https://www.moel.go.kr/news/enews/report/enewsView.do?news_
+ seq=14873
+ 8)건설 제조업 현장 대 안전조치 준수 여부 전국 동시 점검  3
+위드타임즈,2021.12.08,https://www.withtimes.co.kr/11819
 
