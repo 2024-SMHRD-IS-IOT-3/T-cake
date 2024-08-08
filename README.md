@@ -37,7 +37,6 @@
             <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=white"/>
           <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img src="https://img.shields.io/badge/Axios-007CE2?style=for-the-badge&logo=axios&logoColor=white" >
-<img alt="Static Badge" src="https://img.shields.io/badge/React-native?logoColor=red">
            
         </td>
     </tr>
