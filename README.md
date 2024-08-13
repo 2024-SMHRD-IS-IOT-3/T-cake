@@ -111,9 +111,9 @@
     <td align="center">Main</td>
   </tr>
  <tr>
-    <td align="center">팀장, Back-End</td>
+    <td align="center">팀장, Server</td>
     <td align="center">PM, Front-End </td>
-    <td align="center">히드웨어,Back-End</td>
+    <td align="center">하드웨어, AI</td>
     <td align="center">하드웨어</td>
     <td align="center">DB</td>
   </tr>
