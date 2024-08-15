@@ -85,13 +85,15 @@
 
 ## 📌화면구성
 ##### 1. 로그인 화면<br/>
-![KakaoTalk_20240813_103444432](https://github.com/user-attachments/assets/088e5402-c7cf-4ab0-aeed-ae4c05fe760c)
-##### 2. 마이페이지 화면<br/>
-![KakaoTalk_20240812_124911193](https://github.com/user-attachments/assets/e07f0df4-9452-468e-91a0-587e4bc7d1b6)
-##### 3. 출석 화면<br/>
-![KakaoTalk_20240812_124854595](https://github.com/user-attachments/assets/60afb213-2e6c-4057-a0b6-5bd150d798e0)
+![image](https://github.com/user-attachments/assets/6f76e009-fba9-4451-b218-6f9ee1a4e57d)
+##### 2. 회원가입 화면<br />
+![image](https://github.com/user-attachments/assets/c06901e1-2b29-4534-a86b-b67156c8b56d)
+##### 3. 근무 정보 화면<br/>
+![image](https://github.com/user-attachments/assets/245d7283-7832-4c1b-865a-a92929c6e00c)
 ##### 4. 작업 환경 화면<br/>
-![KakaoTalk_20240812_124959791](https://github.com/user-attachments/assets/1b9c27cf-89b4-4d66-8a02-3dbe59b13cca)
+![KakaoTalk_20240812_124854595](https://github.com/user-attachments/assets/60afb213-2e6c-4057-a0b6-5bd150d798e0)
+##### 5. 정보 수정 화면<br/>
+![image](https://github.com/user-attachments/assets/60300d9c-271b-4e17-8bca-7f10bfb11729)
 <br/>
 
 ## 📌팀원역할
