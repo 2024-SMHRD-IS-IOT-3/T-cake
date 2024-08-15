@@ -83,7 +83,7 @@
 ![image](https://github.com/user-attachments/assets/b2e98340-715d-4d71-9b81-c5a03a53011c)
 <br/>
 
-## 📌화면구성~~
+## 📌화면구성
 ##### 1. 로그인 화면<br/>
 ![KakaoTalk_20240813_103444432](https://github.com/user-attachments/assets/088e5402-c7cf-4ab0-aeed-ae4c05fe760c)
 ##### 2. 마이페이지 화면<br/>
@@ -94,7 +94,7 @@
 ![KakaoTalk_20240812_124959791](https://github.com/user-attachments/assets/1b9c27cf-89b4-4d66-8a02-3dbe59b13cca)
 <br/>
 
-## 📌팀원역할~~
+## 📌팀원역할
 <table>
   <tr>
     <td align="center"><strong>김민기</strong></td>
@@ -155,7 +155,7 @@
 </table>
 <br/>
 
-## 📌참고문헌~~
+## 📌참고문헌
 - 1)김다인지난해 산업재해 사망 광주 명전남 명광주일보 ," 8 , 33 ", , 
 2024.03.10,http://m.kwangju.co.kr/article.php?aid=1710069600765469006
  - 2)광주 in,2022.07.07,https://www.gwangjuin.com/news/articleView.html?idxno=234344
