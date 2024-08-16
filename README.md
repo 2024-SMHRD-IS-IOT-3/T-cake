@@ -22,7 +22,7 @@
         <th>내용</th>
     </tr>
     <tr>
-        <td>사용언어</td>
+        <td>사용 언어</td>
         <td>
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
             <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
@@ -44,7 +44,7 @@
             <img src="https://img.shields.io/badge/JetPack -00599C?style=for-the-badge&logo=JetPack&logoColor=white"/>
     </tr>
     <tr>
-        <td>개발도구</td>
+        <td>개발 도구</td>
         <td>
             <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
             <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -58,13 +58,13 @@
         </td>
     </tr>
     <tr>
-        <td>데이터베이스</td>
+        <td>데이터 베이스</td>
         <td>
             <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
         </td>
     </tr>
     <tr>
-        <td>협업도구</td>
+        <td>협업 도구</td>
         <td>
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
