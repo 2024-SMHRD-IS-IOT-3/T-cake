@@ -24,43 +24,47 @@
     <tr>
         <td>사용언어</td>
         <td>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white"/> 
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-           <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=SQL&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
         </td>
     </tr>
     <tr>
         <td>라이브러리</td>
         <td>
-          <img src="https://img.shields.io/badge/ReactNative-00599C?style=for-the-badge&logo=ReactNative&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
             <img src="https://img.shields.io/badge/Mediapipe-00599C?style=for-the-badge&logo=Mediapipe&logoColor=white"/>
-            <img src="https://img.shields.io/badge/YoloV7-00599C?style=for-the-badge&logo=YoloV7&logoColor=white"/>
+            <img src="https://img.shields.io/badge/YoloV5-00599C?style=for-the-badge&logo=YoloV7&logoColor=white"/>
             <img src="https://img.shields.io/badge/OpenCV-00599C?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-            <img src="https://img.shields.io/badge/TensorFlow-00599C?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
             <img src="https://img.shields.io/badge/JetPack -00599C?style=for-the-badge&logo=JetPack&logoColor=white"/>
     </tr>
     <tr>
         <td>개발도구</td>
         <td>
-            <img src="https://img.shields.io/badge/VisualStudioCode-00599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
             <img src="https://img.shields.io/badge/Roboflow-00599C?style=for-the-badge&logo=Roboflow&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Colab -00599C?style=for-the-badge&logo=Colab&logoColor=white"/>
-             <img src="https://img.shields.io/badge/Android-00599C?style=for-the-badge&logo=Android&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=52525"/>
+            <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
         </td>
     </tr>
     <tr>
         <td>데이터베이스</td>
         <td>
-            <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
         </td>
     </tr>
     <tr>
         <td>협업도구</td>
         <td>
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
         </td>
     </tr>
 </table>
