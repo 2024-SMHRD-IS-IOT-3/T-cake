@@ -126,6 +126,10 @@ const styles = StyleSheet.create({
     fontWeight: '400',
     lineHeight: 22,
   },
+  picker: {
+    width: 69,
+    height: 69,
+  },
 });
 
 export default styles;

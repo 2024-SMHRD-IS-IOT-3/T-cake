@@ -143,7 +143,7 @@ const Attendance: React.FC = () => {
             minute: '2-digit', 
             hour12: false 
         });
-    
+
         if (!inTime) {
             setInTime(currentTime);
             await sendAttendanceRequest('IN');
@@ -191,8 +191,19 @@ const Attendance: React.FC = () => {
         }
     };
 
+    // 상태 결정
+    const determineStatus = () => {
+        if (inTime && outTime) {
+            return '작업 완료';
+        } else if (inTime) {
+            return '작업 중';
+        } else {
+            return '작업 전';
+        }
+    };
+
     const buttonText = !inTime ? '출근' : !outTime ? '퇴근' : '출근';
-    const status = !inTime ? '작업 전' : !outTime ? '작업 중' : '작업 완료';
+    const status = determineStatus();
     const showButton = !isPastDate(selectedDate);
 
     useFocusEffect(

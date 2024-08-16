@@ -3,10 +3,10 @@ import { StyleSheet } from 'react-native';
 const styles = StyleSheet.create({
   line: {
     width: '100%',
-    height: 5,
-    backgroundColor: 'gray',
-    position: 'absolute',
-    marginVertical: 10,
+    height: 10,
+    backgroundColor: 'red',
+    position: 'relative',
+    marginVertical: 10, 
   },
   info: {
     flex: 1,
@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: 'white',
-    position: 'relative',
+    position: 'absolute',
   },
   lineTop: {
     width: '100%',

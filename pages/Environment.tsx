@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { View, Text, Image, TouchableOpacity } from 'react-native';
+import { View, Text, Image, TouchableOpacity, Alert } from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome'; // FontAwesome 아이콘 사용
 import { useNavigation } from '@react-navigation/native'; // 네비게이션 훅
 import { AttenScreenNavigationProp } from '../routes/types'; // 네비게이션 타입 import
@@ -14,6 +14,15 @@ const Environment: React.FC = () => {
     const [c02, setC02] = useState<number | null>(null);
     const [dangerOfFire, setDangerOfFire] = useState<number | null>(null);
     const [gas, setGas] = useState<number | null>(null);
+
+    // 범위 정의
+    const ranges = {
+        temperature: [20, 40],
+        humidity: [55, 80],
+        co2: [1200, 2000],
+        fire: [40, 50],
+        gas: [500, 1000]
+    };
 
     // 현재 시간을 'HH:mm' 형식으로 가져오는 함수
     const getCurrentTime = (): string => {
@@ -33,7 +42,6 @@ const Environment: React.FC = () => {
     // 데이터 요청 함수
     const fetchSensorData = async () => {
       try {
-
         // 서버에서 센서 데이터 요청
         const response = await fetch('http://192.168.219.48:3000/sensorSend');
 
@@ -51,7 +59,6 @@ const Environment: React.FC = () => {
         setDangerOfFire(data.danger_of_fire);
         setGas(data.gas);
       } catch (error) {
-
         // 에러 발생 시 콘솔에 에러 메세지 출력
         console.log('센서 데이터를 가져오는데 실패했습니다.', error);
       }
@@ -62,7 +69,7 @@ const Environment: React.FC = () => {
       fetchSensorData();
     }, []);
 
-    // 범위에 따라 텍스트 색상과 이미지 결정 함수
+    // 범위에 따라 텍스트 색상 결정 함수
     const getColorForValue = (value: number | null, ranges: number[]) => {
       if (value == null) return 'black';
       if (value < ranges[0]) return 'black';
@@ -72,20 +79,46 @@ const Environment: React.FC = () => {
 
     // 화재 위험성에 따라 적정, 주의, 화재 위험으로 텍스트와 이미지 결정
     const getFireRiskInfo = (value: number | null) => {
-      if (value === null) return { text: '화재 위험성 오류', color: 'balck', image: require('../img/logo.png')};
+      if (value === null) return { text: '오류', color: 'black', image: require('../img/logo.png') };
       if (value < 40) return { text: '안전', color: 'green', image: require('../img/check.png') };
       if (value <= 50) return { text: '주의', color: '#FFC939', image: require('../img/warning.png') };
       return { text: '위험', color: 'red', image: require('../img/fire.png') };
     }
 
-    // calendar 아이콘 클릭 시 페이지 이동
+    // 아이콘 클릭 시 페이지 이동
     const handleCalendarIconPress = () => {
       navigation.navigate('Attendance');
     };
 
-    // user 아이콘 클릭 시 페이지 이동
-    const handleuserIconPress = () => {
+    const handleUserIconPress = () => {
       navigation.navigate('Mypage');
+    };
+
+    // 값을 변경하는 함수
+    const handleValueChange = (label: string, value: number | null, setValue: React.Dispatch<React.SetStateAction<number | null>>, ranges: number[]) => {
+      Alert.prompt(
+        `${label} 값 변경`,
+        `현재 ${label} 값: ${value !== null ? value.toString() : '없음'}`,
+        [
+          {
+            text: '취소',
+            style: 'cancel',
+          },
+          {
+            text: '변경',
+            onPress: (text) => {
+              if (text !== undefined) {
+                const newValue = parseInt(text, 10); // undefined 처리 후 파싱
+                if (!isNaN(newValue)) {
+                  setValue(newValue);
+                }
+              }
+            },
+          },
+        ],
+        'plain-text',
+        value !== null ? value.toString() : '0'
+      );
     };
 
     const fireRiskInfo = getFireRiskInfo(dangerOfFire);
@@ -98,11 +131,11 @@ const Environment: React.FC = () => {
           <TouchableOpacity style={styles.icon} onPress={handleCalendarIconPress}>
             <Icon name="calendar" size={20} color="#034198" />
           </TouchableOpacity>
-          <TouchableOpacity style={styles.icon} onPress={handleuserIconPress}>
+          <TouchableOpacity style={styles.icon} onPress={handleUserIconPress}>
             <Icon name="user" size={20} color="#034198" />
           </TouchableOpacity>
         </View>
-        
+
         {/* 상단의 파란색 선 */}
         <View style={styles.topLine} />
 
@@ -130,24 +163,44 @@ const Environment: React.FC = () => {
         {/* 정보 박스 */}
         <View style={styles.infoContainer}>
           <View style={styles.infoBox}>
-            <Text style={styles.infoText}>온도</Text>
-            <Text style={[styles.infoValue, { color: getColorForValue(temperature, [20, 40]) }]}>{temperature !== null ? `${temperature}°C` : '데이터 없음'}</Text>
+            <TouchableOpacity onPress={() => handleValueChange('온도', temperature, setTemperature, ranges.temperature)}>
+              <Text style={styles.infoText}>온도</Text>
+              <Text style={[styles.infoValue, { color: getColorForValue(temperature, ranges.temperature) }]}>
+                {temperature !== null ? `${temperature}°C` : '데이터 없음'}
+              </Text>
+            </TouchableOpacity>
           </View>
           <View style={styles.infoBox}>
-            <Text style={styles.infoText}>습도</Text>
-            <Text style={[styles.infoValue, { color: getColorForValue(humidity, [55, 80]) }]}>{humidity !== null ? `${humidity}%` : '데이터 없음'}</Text>
+            <TouchableOpacity onPress={() => handleValueChange('습도', humidity, setHumidity, ranges.humidity)}>
+              <Text style={styles.infoText}>습도</Text>
+              <Text style={[styles.infoValue, { color: getColorForValue(humidity, ranges.humidity) }]}>
+                {humidity !== null ? `${humidity}%` : '데이터 없음'}
+              </Text>
+            </TouchableOpacity>
           </View>
           <View style={styles.infoBox}>
-            <Text style={styles.infoText}>이산화탄소</Text>
-            <Text style={[styles.infoValue, { color: getColorForValue(c02, [1200, 2000]) }]}>{c02 !== null ? `${c02}ppm` : '데이터 없음'}</Text>
+            <TouchableOpacity onPress={() => handleValueChange('이산화탄소', c02, setC02, ranges.co2)}>
+              <Text style={styles.infoText}>이산화탄소</Text>
+              <Text style={[styles.infoValue, { color: getColorForValue(c02, ranges.co2) }]}>
+                {c02 !== null ? `${c02}ppm` : '데이터 없음'}
+              </Text>
+            </TouchableOpacity>
           </View>
           <View style={styles.infoBox}>
-            <Text style={styles.infoText}>화재위험성</Text>
-            <Text style={[styles.infoValue, { color: getColorForValue(dangerOfFire, [40, 50]) }]}>{dangerOfFire !== null ? `${dangerOfFire}%` : '데이터 없음'}</Text>
+            <TouchableOpacity onPress={() => handleValueChange('화재위험성', dangerOfFire, setDangerOfFire, ranges.fire)}>
+              <Text style={styles.infoText}>화재위험성</Text>
+              <Text style={[styles.infoValue, { color: getColorForValue(dangerOfFire, ranges.fire) }]}>
+                {dangerOfFire !== null ? `${dangerOfFire}%` : '데이터 없음'}
+              </Text>
+            </TouchableOpacity>
           </View>
           <View style={styles.infoBox}>
-            <Text style={styles.infoText}>가스누출</Text>
-            <Text style={[styles.infoValue, { color: getColorForValue(gas, [500, 1000]) }]}>{gas !== null ? `${gas}ppm` : '데이터 없음'}</Text>
+            <TouchableOpacity onPress={() => handleValueChange('가스누출', gas, setGas, ranges.gas)}>
+              <Text style={styles.infoText}>가스누출</Text>
+              <Text style={[styles.infoValue, { color: getColorForValue(gas, ranges.gas) }]}>
+                {gas !== null ? `${gas}ppm` : '데이터 없음'}
+              </Text>
+            </TouchableOpacity>
           </View>
         </View>
 

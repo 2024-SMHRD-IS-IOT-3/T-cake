@@ -5,6 +5,7 @@ import { useNavigation } from '@react-navigation/native';
 import { MypageScreenNavigationProp } from '../routes/types';
 import styles from '../styles/MypageStyles';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { Picker } from '@react-native-picker/picker'; // Picker import
 
 // Base64 URL 디코딩 함수
 const base64UrlDecode = (str: string) => {
@@ -33,7 +34,7 @@ const Mypage = () => {
         userName: '',
         phoneNumber: '',
         joinDate: '',
-        userRole: ''
+        userRole: '' // 기존 값 유지
     });
 
     // 입력 필드 상태
@@ -44,6 +45,9 @@ const Mypage = () => {
         phoneNumber: '',
         joinDate: ''
     });
+
+    // 역할 선택 옵션
+    const roles = ['CEO', 'A-1', 'B-1', 'C-1'];
 
     // 로그아웃 처리 함수
     const handleLogout = async () => {
@@ -78,7 +82,7 @@ const Mypage = () => {
                     userName: payload.userName || '',
                     phoneNumber: payload.phoneNumber || '',
                     joinDate: payload.joinDate || '',
-                    userRole: payload.userRole || '',
+                    userRole: payload.userRole || '', // 기존 값 유지
                 });
     
                 let year = new Date(payload.joinDate).getFullYear();
@@ -213,7 +217,15 @@ const Mypage = () => {
 
             <View style={styles.profilePictureContainer}>
                 <View style={styles.profilePicture}>
-                    <Text style={styles.profileRole}>CEO</Text>
+                    <Picker
+                        selectedValue={userInfo.userRole || 'A-1'} // 기본 값 'A-1'으로 설정
+                        style={styles.picker}
+                        onValueChange={(itemValue: string) => setUserInfo(prevState => ({ ...prevState, userRole: itemValue }))}
+                    >
+                        {roles.map(role => (
+                            <Picker.Item key={role} label={role} value={role} />
+                        ))}
+                    </Picker>
                 </View>
             </View>
             <Text style={styles.name}>{userInfo.userName || '이름 정보가 없습니다.'}</Text>
@@ -264,19 +276,15 @@ const Mypage = () => {
                     <TextInput
                         style={styles.infoValue}
                         value={inputValues.joinDate}
-                        onChangeText={(text) => handleInputChange('joinDate', text)}
-                        onBlur={handleBlur}
+                        editable={false}
                     />
-                </View>
-                <View style={styles.infoItem}>
-                    <Text style={styles.infoLabel}>사용자 권한</Text>
-                    <Text style={styles.infoValue}>{userInfo.userRole === 'M' ? '관리자' : '사용자'}</Text>
                 </View>
             </View>
 
             <TouchableOpacity style={styles.logoutButton} onPress={handleLogout}>
                 <Text style={styles.logoutText}>로그아웃</Text>
             </TouchableOpacity>
+
         </View>
     );
 };
