@@ -24,7 +24,7 @@
     <tr>
         <td>사용언어</td>
         <td>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/python?style=for-the-badge&logo=Python&logoColor=#3776AB"/>
           <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white"/> 
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
            <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=SQL&logoColor=white"/>
