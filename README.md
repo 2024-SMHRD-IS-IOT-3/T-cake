@@ -1,21 +1,21 @@
 # Jetson Nano H/W 기반 공장 출입 근로자 안전장비 착용 식별 AI 서비스 장치 개발 (팀명 : 티라미수케익)<br/>
 <br/>
 
-## 📌서비스소개
+## 📌 서비스 소개
 #### · 고위험 산업 분야에서 사고 예방을 위한 안전 장비 착용률을 제고시키고 작업자와 관리자 모두에게 안전한 작업환경을 형성<br/>
 #### · 더욱 쉬운 인원 관리로 작업 효율의 극대화<br/>
 <br/>
 
-## 📌프로젝트 기간
+## 📌 프로젝트 기간
 #### 2024.07.30 ~ 2024.08.21 (약3주)
 <br/>
 
-## 📌주요기능
+## 📌 주요 기능
 #### · ▪Jetson Nano를 활용한 보호장비 착용 여부 판단 시스템<br/>
 #### · ▪앱을 통한 작업 환경관리 및 인원 관리 시스템<br/>
 <br/>
 
-## 📌기술스택
+## 📌 기술 스택
 <table>
     <tr>
         <th width = "125px">구분</th>
@@ -75,23 +75,23 @@
 <br/>
 
 
-## 📌시스템 아키텍처
+## 📌 시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/597e841a-8d18-47b9-be00-64d309547d30)
 <br/>
 
-## 📌유스케이스
+## 📌 유스케이스
 ![image](https://github.com/user-attachments/assets/04962989-60d4-42a7-b2a4-61579910e41b)
 <br/>
 
-## 📌ER 다이어그램
+## 📌 ER 다이어그램
 ![image](https://github.com/user-attachments/assets/4c2b5998-3a01-4936-b8a1-93004970042e)
 <br/>
 
-## 📌회로구성도
+## 📌 회로 구성도
 ![image](https://github.com/user-attachments/assets/b2e98340-715d-4d71-9b81-c5a03a53011c)
 <br/>
 
-## 📌화면구성
+## 📌 화면 구성
 ##### 1. 로그인 화면<br/>
 ![image](https://github.com/user-attachments/assets/6f76e009-fba9-4451-b218-6f9ee1a4e57d)
 ##### 2. 회원가입 화면<br />
@@ -104,7 +104,7 @@
 ![image](https://github.com/user-attachments/assets/60300d9c-271b-4e17-8bca-7f10bfb11729)
 <br/>
 
-## 📌팀원역할
+## 📌 팀원 역할
 <table>
   <tr>
     <td align="center"><strong>김민기</strong></td>
@@ -150,10 +150,10 @@
   </tr>
  <tr>
     <td>· 프로젝트 개요서 작성, WBS 작성, 테이블 명세서 작성</td>
-    <td>· 팀 자기소개서 작성, 프로젝트 회의록 작성, 프로젝트 약식 기획서 작성, 요구사항 정의서 작성, 기획발표용 PPT 제작, 구매 목록 시트 작성, 멘토링 진행일지 작성, 화면 설계서 제작, UI/UX 멘토링용 피그마 구현    </td>
+    <td>· 팀 자기소개서 작성, 프로젝트 회의록 작성, 프로젝트 약식 기획서 작성, 요구사항 정의서 작성, 기획 발표용 PPT 제작, 구매 목록 시트 작성, 멘토링 진행일지 작성, 화면 설계서 제작, UI/UX 멘토링용 피그마 구현, 최종 발표 PPT 제작, git Read me 작성/td>
     <td>· 프로젝트 기획서 작성, IoT 회로 구성 설계서 작성, 멘토링 진행일지 작성,구매 목록 시트 작성, 시스템 아키텍처 제작</td>
-    <td>· 프로젝트기획서 작성, DB 요구사항 분석서 작성, 멘토링 진행일지 작성, ER 다이어그램 작성,기획발표   </td>
-    <td>· 브레인 스토밍 작성, 프로젝트 진행일지 작성, 멘토링 진행일지 작성, 프로젝트 회의록 작성, DB테이블 구성</td>
+    <td>· 프로젝트기획서 작성, DB 요구사항 분석서 작성, 멘토링 진행일지 작성, ER 다이어그램 작성, 기획발표</td>
+    <td>· 브레인 스토밍 작성, 프로젝트 진행일지 작성, 멘토링 진행일지 작성, 프로젝트 회의록 작성, DB테이블 구성, git Read me 작성</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/MINKIKING" target='_blank'>github</a></td>
@@ -165,20 +165,12 @@
 </table>
 <br/>
 
-## 📌참고문헌
-- 1)김다인지난해 산업재해 사망 광주 명전남 명광주일보 ," 8 , 33 ", , 
-2024.03.10,http://m.kwangju.co.kr/article.php?aid=1710069600765469006
- - 2)광주 in,2022.07.07,https://www.gwangjuin.com/news/articleView.html?idxno=234344
- - 3)김유리연이은 외국인 근로자 사망사고외국인 고용 사업장집중 점검  ," ,' '
-실시안전보건뉴스", ,2023.08.24,https://www.safety1st.news/news/articleView.html?idxno=4517
-- 4)산재사망 명 중 명 외국인손짓발짓 교육에 안전지대는 없다한국경제 10 1 ”, , 2024.06.25, …
- https://news.nate.com/view/20240625n35515?mid=n0100
- - 5)산재로 인한 경제손실국가예산 넘겼다년 동안 배 늘어한국경제 , 5% "5 1.5 ”, , 2023.09.12, …
- https://www.hankyung.com/article/202309122912i
- - 6)국내 재난안전산업 시장규모 조원전년보다 조원  44 2 …
-증가한국경제, ,2020.02.20,https://www.hankyung.com/article/202002200546Y
-- 7)이제 산업재해 예방도 신기술로 똑똑하게스마트안전장비 도입 비용의  ! 80% 
-지원고용노동부", ,2023.04.03,https://www.moel.go.kr/news/enews/report/enewsView.do?news_
- seq=14873
- - 8)건설 제조업 현장 대 안전조치 준수 여부 전국 동시 점검  3
-위드타임즈,2021.12.08,https://www.withtimes.co.kr/11819
+## 📌 참고 문헌
+    - 1) 김다인, "지난해 산업재해 사망 광주 8명·전남 33명", <광주일보>, 2024.03.10, http://m.kwangju.co.kr/article.php?aid=1710069600765469006
+    - 2) 광주 in, "금속노조, 하남공단 청년노동자 사망..."진상규명. 사업주 처벌" 촉구", <광주in>, 2022.07.07, https://www.gwangjuin.com/news/articleView.html?idxno=234344
+    - 3) 김유리, "연이은 외국인 근로자 사망사고외국인 고용 사업장집중 점검", <세이프티퍼스트 닷뉴스>, 2023.08.24, https://www.safety1st.news/news/articleView.html?idxno=4517
+    - 4) 조철오, 곽용희, "산재사망 10명 중 1명 외국인...손짓발짓 교육에 안전지대는 없다", <한국경제>, 2024.06.25, https://news.nate.com/view/20240625n35515?mid=n0100
+    - 5) 곽용희, "산재로 인한 경제손실, 국가예산 5% 넘겼다 "5년 동안 1.5배 늘어"", <한국경제>, 2023.09.12, https://www.hankyung.com/article/202309122912i
+    - 6) 연합뉴스, "국내 재난안전산업 시장규모 44조원...전년보다 2조원 증가, <한국경제>, 2020.02.20, https://www.hankyung.com/article/202002200546Y
+    - 7) "이제 산업재해 예방도 신기술로 똑똑하게! 스마트안전장비 도입 비용의 80% 지원", <고용노동부>, 2023.04.03, https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=14873
+    - 8) 위드타임즈, "건설 제조업 현장 3대 안전조치 준수 여부 전국 동시 점검", <위드타임즈>, 2021.12.08, https://www.withtimes.co.kr/11819
