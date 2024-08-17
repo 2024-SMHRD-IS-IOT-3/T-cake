@@ -99,7 +99,7 @@
 ##### 3. 근무 정보 화면<br/>
 ![image](https://github.com/user-attachments/assets/245d7283-7832-4c1b-865a-a92929c6e00c)
 ##### 4. 작업 환경 화면<br/>
-![KakaoTalk_20240812_124854595](https://github.com/user-attachments/assets/60afb213-2e6c-4057-a0b6-5bd150d798e0)
+![image](https://github.com/user-attachments/assets/58c3aa7f-b02c-408e-bd59-5bffd118d276)
 ##### 5. 정보 수정 화면<br/>
 ![image](https://github.com/user-attachments/assets/60300d9c-271b-4e17-8bca-7f10bfb11729)
 <br/>
