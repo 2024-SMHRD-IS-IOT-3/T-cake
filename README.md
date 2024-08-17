@@ -53,8 +53,8 @@
             <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=52525"/>
             <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
             <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
-            <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
             <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+            <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
             <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"/>
         </td>
     </tr>
@@ -130,11 +130,11 @@
     <td align="center">DB</td>
   </tr>
  <tr>
-    <td>· 리스크 관리<br/> · 회원가입/로그인/정보수정/데이터 송수신/출,퇴근 관리 등 기능구현</td>
-    <td>· 프로젝트 일정/개인별진행 사항 파악 및 회의록 작성<br/> · 회원가입/로그인/출석/작업환경/마이페이지 등 모든 페이지 제작 및 디자인<br/> · 페이지별 기능 연결<br/> · 각종 산출문서 관리</td>
-    <td>· 데이터수집 및 데이터전처리<br/> · 객체인식 모델링 및 학습, 모델 추론속도 향상 작업<br/> · 젯슨보드 환경설정, 젯슨보드에 객체인식과 서보모터 모듈 코드 병합</td>
-    <td>· 젯슨 보드 환경설정<br/> · 하드웨어 회로구성<br/> · 센싱데이터 서버 전송</td>
-    <td>·데이터 모델링 작업<br/> · Oracle을 이용한 DB 테이블 제작<br/> · 문서 정리</td>
+    <td>· 리스크 관리<br/>· 회원가입/로그인/정보수정/데이터 송수신/출,퇴근 관리 등 기능구현</td>
+    <td>· 프로젝트 일정/개인별진행 사항 파악 및 회의록 작성<br/>· 회원가입/로그인/출석/작업환경/마이페이지 등 모든 페이지 제작 및 디자인<br/>· 페이지별 기능 연결<br/>· 각종 산출문서 관리</td>
+    <td>· 데이터수집 및 데이터전처리<br/>· 객체인식 모델링 및 학습, 모델 추론속도 향상 작업<br/>· 젯슨보드 환경설정, 젯슨보드에 객체인식과 서보모터 모듈 코드 병합</td>
+    <td>· 젯슨 보드 환경설정<br/>· 하드웨어 회로구성<br/>· 센싱데이터 서버 전송</td>
+    <td>·데이터 모델링 작업<br/>· Oracle을 이용한 DB 테이블 제작<br/>· 문서 정리</td>
   </tr>
  <tr>
     <td align="center">Sub</td>
@@ -151,11 +151,11 @@
     <td align="center">공통업무</td>
   </tr>
  <tr>
-    <td>· 프로젝트 개요서 작성, WBS 작성, 테이블 명세서 작성</td>
-    <td>· 팀 자기소개서 작성, 프로젝트 회의록 작성, 프로젝트 약식 기획서 작성, 요구사항 정의서 작성, 유스케이스 다이어그램 작성, 기획 발표용 PPT 제작, 구매 목록 시트 작성, 멘토링 진행일지 작성, 화면 설계서 제작, UI/UX 멘토링용 피그마 구현, 최종 발표 PPT 제작, GIT Read me 작성</td>
-    <td>· 프로젝트 기획서 작성, IoT 회로 구성 설계서 작성, 멘토링 진행일지 작성,구매 목록 시트 작성, 시스템 아키텍처 제작</td>
-    <td>· 프로젝트기획서 작성, DB 요구사항 분석서 작성, 멘토링 진행일지 작성, ER 다이어그램 작성, 기획발표</td>
-    <td>· 브레인 스토밍 작성, 프로젝트 진행일지 작성, 멘토링 진행일지 작성, 프로젝트 회의록 작성, DB테이블 구성, GIT Read me 작성</td>
+    <td>· 프로젝트 개요서 작성<br/>· WBS 작성<br/>· 테이블 명세서 작성</td>
+    <td>· 팀 자기소개서 작성<br/>· 프로젝트 회의록 작성<br/>· 프로젝트 약식 기획서 작성<br/>· 요구사항 정의서 작성<br/>· 유스케이스 다이어그램 작성<br/>· 기획 발표용 PPT 제작<br/>· 구매 목록 시트 작성<br/>· 멘토링 진행일지 작성<br/>· 화면 설계서 제작<br/>· UI/UX 멘토링용 피그마 구현<br/>· 최종 발표 PPT 제작<br/>· GIT Read me 작성</td>
+    <td>· 프로젝트 기획서 작성<br/>· IoT 회로 구성 설계서 작성<br/>· 멘토링 진행일지 작성<br/>· 구매 목록 시트 작성<br/>· 시스템 아키텍처 제작</td>
+    <td>· 프로젝트기획서 작성<br/>· DB 요구사항 분석서 작성<br/>· 멘토링 진행일지 작성<br/>· ER 다이어그램 작성<br/>· 기획발표</td>
+    <td>· 브레인 스토밍 작성<br/>· 프로젝트 진행일지 작성<br/>· 멘토링 진행일지 작성<br/>· 프로젝트 회의록 작성<br/>· DB테이블 구성<br/>· GIT Read me 작성</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/MINKIKING" target='_blank'>github</a></td>
