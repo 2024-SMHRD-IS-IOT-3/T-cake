@@ -57,6 +57,7 @@
             <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
             <img src="https://img.shields.io/badge/bcryptjs-E6484F?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     </tr>
     <tr>
         <td align='center'>하드웨어</td>
@@ -70,6 +71,7 @@
     <tr>
         <td align='center'>인공지능</td>
         <td>
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
             <img src="https://img.shields.io/badge/YoloV5-D5ED9F?style=for-the-badge"/>
             <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
             <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
