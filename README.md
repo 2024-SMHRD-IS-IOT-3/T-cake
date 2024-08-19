@@ -40,6 +40,7 @@
             <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
             <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -50,15 +51,15 @@
             <img src="https://img.shields.io/badge/YoloV5-D5ED9F?style=for-the-badge"/>
             <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
             <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-            <img src="https://img.shields.io/badge/pandas-AD49E1?style=for-the-badge&logo=pandas&logoColor=white"/>
             <img src="https://img.shields.io/badge/Pythorch-FF8A8A?style=for-the-badge&logo=pytorch&logoColor=white"/>
             <img src="https://img.shields.io/badge/Requests-FFD23F?style=for-the-badge"/>
             <img src="https://img.shields.io/badge/Json-503C3C?style=for-the-badge&logo=json&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JSON_Web_Tokens-F8F4EC?style=for-the-badge&logo=jsonwebtokens&logoColor=black"/>
+            <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
             <img src="https://img.shields.io/badge/fontawesome-DCF2F1?style=for-the-badge&logo=fontawesome&logoColor=black"/>
             <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
             <img src="https://img.shields.io/badge/Matplotlib-F3F3F3?style=for-the-badge"/>
             <img src="https://img.shields.io/badge/GPIO-FF90C2?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
     </tr>
     <tr>
         <td>개발도구</td>
@@ -86,7 +87,9 @@
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-             <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
+            <img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000"/>
+            <img src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white"/>
         </td>
     </tr>
 </table>
@@ -94,7 +97,7 @@
 
 
 ## 📌 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/2da2432a-6a3f-46aa-bfb0-2ff23dc971f2)
+![image](https://github.com/user-attachments/assets/592cf75f-de0c-45d3-b04c-8161be3505cf)
 <br/>
 
 ## 📌 유스케이스
