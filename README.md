@@ -45,25 +45,33 @@
     <tr>
         <td>라이브러리</td>
         <td>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
             <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-            <img src="https://img.shields.io/badge/Mediapipe-00599C?style=for-the-badge&logo=Mediapipe&logoColor=white"/>
-            <img src="https://img.shields.io/badge/YoloV5-00599C?style=for-the-badge&logo=YoloV7&logoColor=white"/>
-            <img src="https://img.shields.io/badge/OpenCV-00599C?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+            <img src="https://img.shields.io/badge/YoloV5-D5ED9F?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
             <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JetPack -00599C?style=for-the-badge&logo=JetPack&logoColor=white"/>
+            <img src="https://img.shields.io/badge/pandas-AD49E1?style=for-the-badge&logo=pandas&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Pythorch-FF8A8A?style=for-the-badge&logo=pytorch&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Requests-FFD23F?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Json-503C3C?style=for-the-badge&logo=json&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JSON_Web_Tokens-F8F4EC?style=for-the-badge&logo=jsonwebtokens&logoColor=black"/>
+            <img src="https://img.shields.io/badge/fontawesome-DCF2F1?style=for-the-badge&logo=fontawesome&logoColor=black"/>
+            <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+            <img src="https://img.shields.io/badge/Matplotlib-F3F3F3?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/GPIO-FF90C2?style=for-the-badge"/>
     </tr>
     <tr>
         <td>개발도구</td>
         <td>
             <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
             <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Roboflow-00599C?style=for-the-badge&logo=Roboflow&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Roboflow-FF4E88?style=for-the-badge"/>
             <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=52525"/>
             <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
             <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
-            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-            <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"/>
+            <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+            <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+            <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -86,7 +94,7 @@
 
 
 ## 📌 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/597e841a-8d18-47b9-be00-64d309547d30)
+![image](https://github.com/user-attachments/assets/2da2432a-6a3f-46aa-bfb0-2ff23dc971f2)
 <br/>
 
 ## 📌 유스케이스
@@ -103,15 +111,15 @@
 
 ## 📌 화면 구성
 ##### 1. 로그인 화면<br/>
-![image](https://github.com/user-attachments/assets/6f76e009-fba9-4451-b218-6f9ee1a4e57d)
-##### 2. 회원가입 화면<br />
-![image](https://github.com/user-attachments/assets/c06901e1-2b29-4534-a86b-b67156c8b56d)
+<img src="https://github.com/user-attachments/assets/6f76e009-fba9-4451-b218-6f9ee1a4e57d" width="300" /><br/>
+##### 2. 회원가입 화면<br/>
+<img src="https://github.com/user-attachments/assets/c06901e1-2b29-4534-a86b-b67156c8b56d" width="300" /><br/>
 ##### 3. 근무 정보 화면<br/>
-![image](https://github.com/user-attachments/assets/245d7283-7832-4c1b-865a-a92929c6e00c)
+<img src="https://github.com/user-attachments/assets/245d7283-7832-4c1b-865a-a92929c6e00c" width="300" /><br/>
 ##### 4. 작업 환경 화면<br/>
-![image](https://github.com/user-attachments/assets/58c3aa7f-b02c-408e-bd59-5bffd118d276)
+<img src="https://github.com/user-attachments/assets/58c3aa7f-b02c-408e-bd59-5bffd118d276" width="300" /><br/>
 ##### 5. 정보 수정 화면<br/>
-![image](https://github.com/user-attachments/assets/60300d9c-271b-4e17-8bca-7f10bfb11729)
+<img src="https://github.com/user-attachments/assets/60300d9c-271b-4e17-8bca-7f10bfb11729" width="300" /><br/>
 <br/>
 
 ## 📌 팀원 역할
