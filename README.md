@@ -30,59 +30,65 @@
         <th>내용</th>
     </tr>
     <tr>
-        <td>사용언어</td>
+        <td align='center'>앱</td>
         <td>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
             <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
             <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
             <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
             <img src="https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-        </td>
-    </tr>
-    <tr>
-        <td>라이브러리</td>
-        <td>
             <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
             <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-            <img src="https://img.shields.io/badge/YoloV5-D5ED9F?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Pythorch-FF8A8A?style=for-the-badge&logo=pytorch&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Requests-FFD23F?style=for-the-badge"/>
             <img src="https://img.shields.io/badge/Json-503C3C?style=for-the-badge&logo=json&logoColor=white"/>
             <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
             <img src="https://img.shields.io/badge/fontawesome-DCF2F1?style=for-the-badge&logo=fontawesome&logoColor=black"/>
-            <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-            <img src="https://img.shields.io/badge/Matplotlib-F3F3F3?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/GPIO-FF90C2?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-    </tr>
-    <tr>
-        <td>개발도구</td>
-        <td>
             <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
             <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Roboflow-FF4E88?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=52525"/>
             <img src="https://img.shields.io/badge/Android_Studio-9ADE7B?style=for-the-badge&logo=android-studio&logoColor=black"/>
             <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
             <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>서버</td>
+        <td>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    </tr>
+    <tr>
+        <td align='center'>하드웨어</td>
+        <td>
+            <img src="https://img.shields.io/badge/Requests-FFD23F?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/GPIO-FF90C2?style=for-the-badge"/>
             <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
             <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
         </td>
     </tr>
     <tr>
-        <td>데이터베이스</td>
+        <td align='center'>인공지능</td>
+        <td>
+            <img src="https://img.shields.io/badge/YoloV5-D5ED9F?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Pythorch-FF8A8A?style=for-the-badge&logo=pytorch&logoColor=white"/>
+            <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+            <img src="https://img.shields.io/badge/Matplotlib-F3F3F3?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Roboflow-FF4E88?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=52525"/>
+            <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>데이터베이스</td>
         <td>
             <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
         </td>
     </tr>
     <tr>
-        <td>협업도구</td>
+        <td align='center'>협업도구</td>
         <td>
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -135,7 +141,7 @@
     </td>
     <td align="center">
       <p><strong>5. 작업 환경 화면</strong></p>
-      <img src="https://github.com/user-attachments/assets/58c3aa7f-b02c-408e-bd59-5bffd118d276" width="300" />
+      <img src="https://github.com/user-attachments/assets/4f5e6164-49f1-4e1d-a91b-14c3f2c360dd" width="300" />
     </td>
     <td align="center">
       <p><strong>6. 정보 수정 화면</strong></p>
