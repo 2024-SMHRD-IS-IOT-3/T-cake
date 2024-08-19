@@ -113,17 +113,37 @@
 <br/>
 
 ## 📌 화면 구성
-##### 1. 로그인 화면<br/>
-<img src="https://github.com/user-attachments/assets/6f76e009-fba9-4451-b218-6f9ee1a4e57d" width="300" /><br/>
-##### 2. 회원가입 화면<br/>
-<img src="https://github.com/user-attachments/assets/c06901e1-2b29-4534-a86b-b67156c8b56d" width="300" /><br/>
-##### 3. 근무 정보 화면<br/>
-<img src="https://github.com/user-attachments/assets/245d7283-7832-4c1b-865a-a92929c6e00c" width="300" /><br/>
-##### 4. 작업 환경 화면<br/>
-<img src="https://github.com/user-attachments/assets/58c3aa7f-b02c-408e-bd59-5bffd118d276" width="300" /><br/>
-##### 5. 정보 수정 화면<br/>
-<img src="https://github.com/user-attachments/assets/60300d9c-271b-4e17-8bca-7f10bfb11729" width="300" /><br/>
-<br/>
+<table>
+  <tr>
+    <td align="center">
+      <p><strong>1. 스플래시 화면</strong></p>
+      <img src="https://github.com/user-attachments/assets/85d64fe5-0410-4570-a7ec-e1e70b9d063b" width="300" />
+    </td>
+    <td align="center">
+      <p><strong>2. 로그인 화면</strong></p>
+      <img src="https://github.com/user-attachments/assets/6f76e009-fba9-4451-b218-6f9ee1a4e57d" width="300" />
+    </td>
+    <td align="center">
+      <p><strong>3. 회원가입 화면</strong></p>
+      <img src="https://github.com/user-attachments/assets/c06901e1-2b29-4534-a86b-b67156c8b56d" width="300" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p><strong>4. 근무 정보 화면</strong></p>
+      <img src="https://github.com/user-attachments/assets/245d7283-7832-4c1b-865a-a92929c6e00c" width="300" />
+    </td>
+    <td align="center">
+      <p><strong>5. 작업 환경 화면</strong></p>
+      <img src="https://github.com/user-attachments/assets/58c3aa7f-b02c-408e-bd59-5bffd118d276" width="300" />
+    </td>
+    <td align="center">
+      <p><strong>6. 정보 수정 화면</strong></p>
+      <img src="https://github.com/user-attachments/assets/60300d9c-271b-4e17-8bca-7f10bfb11729" width="300" />
+    </td>
+  </tr>
+</table>
+
 
 ## 📌 팀원 역할
 <table>
@@ -150,10 +170,10 @@
   </tr>
  <tr>
     <td>· 리스크 관리<br/>· 회원가입/로그인/정보수정/데이터 송수신/출,퇴근 관리 등 기능구현</td>
-    <td>· 프로젝트 일정/개인별진행 사항 파악 및 회의록 작성<br/>· 회원가입/로그인/출석/작업환경/마이페이지 등 모든 페이지 제작 및 디자인<br/>· 페이지별 기능 연결<br/>· 각종 산출문서 관리</td>
+    <td>· 프로젝트 일정/개인별진행 사항 파악 및 회의록 작성<br/>· 회원가입/로그인/출근정보/작업환경/마이페이지 등 모든 페이지 제작 및 디자인<br/>· 페이지별 기능 연결<br/>· 각종 산출문서 관리</td>
     <td>· 데이터수집 및 데이터전처리<br/>· 객체인식 모델링 및 학습, 모델 추론속도 향상 작업<br/>· 젯슨보드 환경설정, 젯슨보드에 객체인식과 서보모터 모듈 코드 병합</td>
     <td>· 젯슨 보드 환경설정<br/>· 하드웨어 회로구성<br/>· 센싱데이터 서버 전송</td>
-    <td>·데이터 모델링 작업<br/>· Oracle을 이용한 DB 테이블 제작<br/>· 문서 정리</td>
+    <td>·데이터 모델링 작업<br/>· Oracle DB 테이블 제작<br/>· 문서 정리</td>
   </tr>
  <tr>
     <td align="center">Sub</td>
