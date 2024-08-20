@@ -56,7 +56,6 @@
     <tr>
         <td align='center'>하드웨어</td>
         <td>
-            <img src="https://img.shields.io/badge/GPIO-FF90C2?style=for-the-badge"/>
             <img src="https://img.shields.io/badge/Requests-FFD23F?style=for-the-badge"/>
             <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
             <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -71,7 +70,6 @@
             <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
             <img src="https://img.shields.io/badge/Pythorch-FF8A8A?style=for-the-badge&logo=pytorch&logoColor=white"/>
             <img src="https://img.shields.io/badge/Roboflow-FF4E88?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
             <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=52525"/>
         </td>
     </tr>
@@ -91,7 +89,6 @@
 </table>
 <br/>
 
-
 ## 📌 시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/592cf75f-de0c-45d3-b04c-8161be3505cf)
 <br/>
@@ -99,13 +96,16 @@
 ## 📌 유스케이스
 ![image](https://github.com/user-attachments/assets/04962989-60d4-42a7-b2a4-61579910e41b)
 <br/>
+<br/>
 
 ## 📌 ER 다이어그램
 ![image](https://github.com/user-attachments/assets/4c2b5998-3a01-4936-b8a1-93004970042e)
 <br/>
+<br/>
 
 ## 📌 회로 구성도
 ![image](https://github.com/user-attachments/assets/b2e98340-715d-4d71-9b81-c5a03a53011c)
+<br/>
 <br/>
 
 ## 📌 화면 구성
@@ -139,6 +139,7 @@
     </td>
   </tr>
 </table>
+<br/>
 
 
 ## 📌 팀원 역할
