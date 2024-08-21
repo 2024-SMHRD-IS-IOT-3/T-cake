@@ -107,17 +107,23 @@
 <br/>
 <br/>
 
-## 📌 AI 구성
-![image](https://github.com/user-attachments/assets/74c2c48d-3790-4e6c-bd74-9857ea2d8d8a)
-![image](https://github.com/user-attachments/assets/6165e3c2-976a-4715-8e39-55770e15915f)
-![image](https://github.com/user-attachments/assets/f49020af-e7cb-4809-aca5-faa38b252340)
-<br/>
-<br/>
-
-## 📌 IoT 구성
-![image](https://github.com/user-attachments/assets/f00adfd4-17a8-4a26-b45d-a057474e3d16)
-![image](https://github.com/user-attachments/assets/df3d20ed-9fd3-4a72-af2c-22ec7d6689cd)
-![image](https://github.com/user-attachments/assets/3f2ad4c4-006a-470f-863b-39daede7abb3)
+## 📌 안전장비 착용 인식
+<table>
+  <tr>
+    <td align="center">
+      <p><strong>F1-Confidence Curve</strong></p>
+      <img src="https://github.com/user-attachments/assets/74c2c48d-3790-4e6c-bd74-9857ea2d8d8a" width="750"/>
+    </td>
+    <td align="center">
+      <p><strong>인식 실패</strong></p>
+      <img src="https://github.com/user-attachments/assets/6165e3c2-976a-4715-8e39-55770e15915f" />
+    </td>
+    <td align="center">
+      <p><strong>인식 성공</strong></p>
+      <img src="https://github.com/user-attachments/assets/f49020af-e7cb-4809-aca5-faa38b252340" />
+    </td>
+  </tr>
+</table>
 <br/>
 <br/>
 
