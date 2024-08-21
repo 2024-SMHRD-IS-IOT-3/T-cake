@@ -1,7 +1,7 @@
 # Jetson Nano H/W 기반 공장 출입 근로자 안전장비 착용 식별 AI 서비스 장치 개발 (팀명 : 티라미수케익)<br/>
 <br/>
 
-![image](https://github.com/user-attachments/assets/eb777c01-088a-472b-86f0-f0a36a296f62)
+![image](https://github.com/user-attachments/assets/efedc0b2-1e83-43ec-ac46-2945fcf5041e)
 <br/>
 
 ## 📌 서비스 소개
